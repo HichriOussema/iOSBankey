@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F14B80DD2BF5E70600AEAC2D /* OnBoardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14B80DC2BF5E70600AEAC2D /* OnBoardingContainerViewController.swift */; };
+		F14B80DF2BF76B2A00AEAC2D /* OnBoardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14B80DE2BF76B2A00AEAC2D /* OnBoardingViewController.swift */; };
 		F18D0BD22BDAB50B0062C61E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18D0BD12BDAB50B0062C61E /* AppDelegate.swift */; };
 		F18D0BD62BDAB50B0062C61E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18D0BD52BDAB50B0062C61E /* LoginViewController.swift */; };
 		F18D0BDB2BDAB50C0062C61E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F18D0BDA2BDAB50C0062C61E /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		F14B80DC2BF5E70600AEAC2D /* OnBoardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingContainerViewController.swift; sourceTree = "<group>"; };
+		F14B80DE2BF76B2A00AEAC2D /* OnBoardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingViewController.swift; sourceTree = "<group>"; };
 		F18D0BCE2BDAB50B0062C61E /* Bankey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bankey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F18D0BD12BDAB50B0062C61E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F18D0BD52BDAB50B0062C61E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				F14B80DC2BF5E70600AEAC2D /* OnBoardingContainerViewController.swift */,
+				F14B80DE2BF76B2A00AEAC2D /* OnBoardingViewController.swift */,
 			);
 			name = OnBoarding;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				F18D0BD62BDAB50B0062C61E /* LoginViewController.swift in Sources */,
 				F18D0BD22BDAB50B0062C61E /* AppDelegate.swift in Sources */,
 				F14B80DD2BF5E70600AEAC2D /* OnBoardingContainerViewController.swift in Sources */,
+				F14B80DF2BF76B2A00AEAC2D /* OnBoardingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
